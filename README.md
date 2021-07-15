@@ -43,3 +43,7 @@ Database for this Electricity Billing System contains 2 Tables
 ->Login Table (Name,Email id, Password)
 
 ->patient_detail Table Table(Name, Doctor, Date, covid)
+
+# Screenshots :
+# ![LoginPage](https://user-images.githubusercontent.com/80004290/125744673-ded9060d-1934-41ed-ad41-aa291b0a4779.png)
+register
