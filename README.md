@@ -35,3 +35,11 @@ This is a web application create by using Html, JavaScript, CSS, PHP.It contains
 ->style_register.css
 
 ->script.js
+
+# Database(Mysql) :
+
+Database for this Electricity Billing System contains 2 Tables
+
+->Login Table (Name,Email id, Password)
+
+->patient_detail Table Table(Name, Doctor, Date, covid)
