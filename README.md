@@ -45,5 +45,6 @@ Database for this Electricity Billing System contains 2 Tables
 ->patient_detail Table Table(Name, Doctor, Date, covid)
 
 # Screenshots :
-# ![LoginPage](https://user-images.githubusercontent.com/80004290/125744673-ded9060d-1934-41ed-ad41-aa291b0a4779.png)
-register
+# Register Page 
+![RegisterPage](https://user-images.githubusercontent.com/80004290/125745030-96118945-1c33-4ab4-b589-032e15b20f3d.png)
+# login Page
