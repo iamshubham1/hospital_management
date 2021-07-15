@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
+html {
+    font-size: 16px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.45;
+}
+
+body {
+    background-image: url(images_login_page/background.jpg);
+}
+
+.container1 {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+.page {
+    position: absolute;
+    top: 15%;
+    left: 40%;
+}
+
+.page h1 {
+    color: rgba(10, 10, 10, 0.5);
+    text-align: right;
+    padding-right: 5px;
+}
+
+form {
+    background-color: #e8ecf1;
+    padding: 50px;
+    display: inline-block;
+    border: 1px solid black;
+    border-bottom-left-radius: 40%;
+    border-top-left-radius: 40%;
+    opacity: 0.8;
+}
+
+.logo {
+    display: flex;
+    margin: 15px 0;
+    border-bottom: 1px solid black;
+}
+
+.logo img {
+    margin-right: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+input {
+    background-color: #e8ecf1;
+    size: 40;
+    padding: 5px;
+    border: hidden;
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+}
