@@ -9,4 +9,29 @@ It is a website.It lets User perform multiple operations like:-
 
 # About Project :
 This is a web application create by using Html, JavaScript, CSS, PHP.It contains 9 different PHP, 4 different CSS, And 1 Javascript files which works together to create a better user experience .
-->
+
+->addPatient.php
+
+->dashboard.php
+
+->header.php
+
+->login.php
+
+->manage.php
+
+->manage_login_page.php
+
+->updatePatient.php
+
+->patient.php
+
+->register.php
+
+->style.css
+
+->style_login.css
+
+->style_register.css
+
+->script.js
