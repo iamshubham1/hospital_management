@@ -52,6 +52,8 @@ Database for this Electricity Billing System contains 2 Tables
 # Dashboard Page
 ![DashboardPage](https://github.com/iamshubham1/hospital_management/blob/main/Screenshots/DashboardPage.png)
 # Patient Lists Page
-
+![PatientListPage](https://github.com/iamshubham1/hospital_management/blob/main/Screenshots/PatientListsPage.png)
 # Add Patient Page
+![AddPatientPage](https://github.com/iamshubham1/hospital_management/blob/main/Screenshots/AddPatientPage.png)
 # Update Patient Page
+![UpdatePatientPage](https://github.com/iamshubham1/hospital_management/blob/main/Screenshots/UpdatePatientPage.png)
