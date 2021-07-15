@@ -47,4 +47,9 @@ Database for this Electricity Billing System contains 2 Tables
 # Screenshots :
 # Register Page 
 ![RegisterPage](https://github.com/iamshubham1/hospital_management/blob/main/Screenshots/AddPatientPage.png)
-# login Page
+# Login Page
+![LoginPage].(https://github.com/iamshubham1/hospital_management/blob/main/Screenshots/AddPatientPage.png)
+# Dashboard Page
+# Patient Lists Page
+# Add Patient Page
+# Update Patient Page
