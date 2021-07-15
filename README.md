@@ -8,4 +8,5 @@ It is a website.It lets User perform multiple operations like:-
 3- User can Remove patients.
 
 # About Project :
-This is a web application create by using Html, JavaScript, CSS, PHP.It contains 9 different PHP files which works together to create a better user experience .
+This is a web application create by using Html, JavaScript, CSS, PHP.It contains 9 different PHP, 4 different CSS, And 1 Javascript files which works together to create a better user experience .
+->
